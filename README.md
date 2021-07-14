@@ -10,3 +10,6 @@ Some notes from my journey of becoming brave and true while learning Clojure.
        
        {:deps {org.clojure/clojure {:mvn/version "1.10.3"}}
 
+## Emacs shortcuts
+
+C+x b   Create a buffer
